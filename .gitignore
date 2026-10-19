@@ -1,0 +1,29 @@
+# Local environment variables and environment files
+.env*
+*.env
+*.env.*
+.envrc
+.direnv/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+envs/
+ENV/
+.conda/
+
+# Generated Python files and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local uploads and operating-system files
+.files/
+.DS_Store
+Thumbs.db
+
+# Local checkout nested inside the downloaded source folder
+RAG-Chatbot-git/

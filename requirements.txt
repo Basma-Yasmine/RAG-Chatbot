@@ -1,0 +1,10 @@
+openai
+pymilvus
+numpy
+python-docx
+PyPDF2
+python-dotenv
+pandas
+tqdm
+dotenv
+chainlit
